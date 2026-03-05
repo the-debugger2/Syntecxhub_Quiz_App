@@ -2,6 +2,8 @@
 
 A simple interactive **Quiz Application** built using **HTML, CSS, and JavaScript**. The app presents multiple-choice questions one at a time, tracks the user's score, and displays the correct answers after the quiz is completed.
 
+## Live Demo
+(https://the-debugger2.github.io/Syntecxhub_Quiz_App/)
 ## Features
 - Multiple choice questions
 - One question displayed at a time
@@ -40,6 +42,3 @@ quiz-app
 - Highlight correct/incorrect answers
 - Quiz categories
 - Save scores with LocalStorage
-
-## Live Demo
-Live demo coming soon.
